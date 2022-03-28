@@ -1,7 +1,7 @@
-# Build and installation process
+# Goals, Build and installation process
 
 
-### Build
+### Build and Goals
 
 ***Create new ASP .NET Core Web App project***
 
